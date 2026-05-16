@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`06a4897`](https://github.com/agpretini/my-package-with-semver/commit/06a489760dcc64eaaff8a863c9c94026d6d86422))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes

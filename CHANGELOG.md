@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`bbc0761`](https://github.com/agpretini/my-package-with-semver/commit/bbc0761bcedd23a38f134d2c27dada43aa27c3bb))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
